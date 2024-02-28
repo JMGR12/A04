@@ -26,8 +26,8 @@
   <body>
     <div class="container">
       <h1>JMGR12 - My First Web Page</h1>
-      <p>IS - Intro to Website Development</p>
-      <p>Course section - 117006</p>
+      <p>IS117 - Intro to Website Development</p>
+      <p>Course Section - 006</p>
     </div>
   </body>
 </head>
