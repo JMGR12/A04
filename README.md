@@ -25,7 +25,7 @@
   </style>
   <body>
     <div class="container">
-      <h1>JMGR12</h1>
+      <h1>JMGR12 - My First Web Page</h1>
       <p>IS - Intro to Website Development</p>
       <p>Course section - 117006</p>
     </div>
