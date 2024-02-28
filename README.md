@@ -1,5 +1,6 @@
 # A04
 <!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset = "UTF-8">
   <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
@@ -13,21 +14,26 @@
       padding: 0;
       }
     .container {
-      max-width: 800px;
-      margin-top: 50px;
-      margin-right: auto;
-      margin-bottom: 50px;
-      margin-left: auto;
-      padding:20px;
+      max-wdith: 600px;
+      margin: 50px auto;
+      padding: 20px;
       background-color: #fff;
-      border-radius: 10px;
+      border-radius: 8px;
+      box-sizing: border-box;
       }
+  h1 {
+      text-align: center;
+      }
+  p{
+    text-align: center;
+    }
   </style>
-  <body>
+</head>
+<body>
     <div class="container">
       <h1>JMGR12 - My First Web Page</h1>
-      <p>IS117 - Intro to Website Development</p>
-      <p>Course Section - 006</p>
+      <p>Intro to Website Development</p>
+      <p>Course Section - IS117006</p>
     </div>
   </body>
-</head>
+</html>
