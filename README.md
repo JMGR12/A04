@@ -14,7 +14,7 @@
       padding: 0;
       }
     .container {
-      max-wdith: 600px;
+      max-width: 600px;
       margin: 50px auto;
       padding: 20px;
       background-color: #fff;
