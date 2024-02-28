@@ -5,22 +5,6 @@
   <meta charset = "UTF-8">
   <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
   <title>My First Web Page</title>
-  <style>
-    body{
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      color: #333;
-      margin: 0;
-      padding: 0;
-      }
-    .container {
-      max-wdith: 600px;
-      margin: 50px auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 8px;
-      box-sizing: border-box;
-      }
   h1 {
       text-align: center;
       }
